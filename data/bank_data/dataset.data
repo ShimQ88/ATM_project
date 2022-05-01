@@ -1,0 +1,8 @@
+index,id,password,bank_account,first_name,last_name,dob,saving_money,checking_money
+0,kyu_shim,1234,12-3000-0000001,kyuwon,shim,28/03/2000,19801,599000
+1,john_park,5678,12-3000-0000002,john,park,11/05/1988,200,5000
+2,black_diamond,0000,12-3000-0000003,ina,ha,12/12/1958,1000,300
+3,cute_hani,hani1212,12-3000-0000004,hani,oh,18/06/2002,1000,700
+4,jun123,123,12-3000-0000005,jun,walker,11/06/2001,1500,700
+5,morning_glory,222,12-3000-0000006,glory,kim,20/06/2002,15500,200
+6,hi_jenny,jen11,12-3000-0000007,jenny,power,11/06/2002,10100,50000
